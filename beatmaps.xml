@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>osu!beatmaps</ShortName>
+  <Description>Searches beatmaps on osu.ppy.sh</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://osu.ppy.sh/favicon.ico</Image>
+  <Url type="text/html" template="https://osu.ppy.sh/beatmapsets?q={searchTerms}"></Url>
+  <moz:SearchForm>https://osu.ppy.sh/beatmapsets</moz:SearchForm>
+</OpenSearchDescription>
