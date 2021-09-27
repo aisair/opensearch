@@ -1,2 +1,2 @@
-# osuopensearch
-OpenSearch XML files for osu! web interface
+# opensearch
+OpenSearch XML files for various websites
