@@ -3,6 +3,6 @@
   <Description>Searches Wolfram Language documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://www.wolframalpha.com/common/images2003/favicon.ico</Image>
-  <Url type="text/html" template="https://reference.wolfram.com/search/?q=searchTerms}"></Url>
+  <Url type="text/html" template="https://reference.wolfram.com/search/?q={searchTerms}"></Url>
   <moz:SearchForm>https://reference.wolfram.com/</moz:SearchForm>
 </OpenSearchDescription>
